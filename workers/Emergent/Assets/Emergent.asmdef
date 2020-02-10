@@ -1,5 +1,5 @@
 {
-    "name": "BlankProject",
+    "name": "Emergent",
     "references": [
         "Improbable.Gdk.Core",
         "Improbable.Gdk.Generated",
@@ -9,7 +9,6 @@
         "Unity.Entities.Hybrid",
         "Unity.Mathematics"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

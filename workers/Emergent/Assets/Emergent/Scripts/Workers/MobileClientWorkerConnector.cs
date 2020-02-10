@@ -4,7 +4,7 @@ using Improbable.Gdk.Mobile;
 using Improbable.Gdk.PlayerLifecycle;
 using UnityEngine;
 
-namespace BlankProject
+namespace Emergent
 {
     public class MobileClientWorkerConnector : WorkerConnector, MobileConnectionFlowInitializer.IMobileSettingsProvider
     {

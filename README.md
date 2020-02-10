@@ -1,14 +1,10 @@
-# The SpatialOS GDK for Unity Blank Starter Project
+# Emergent
 
-This is a blank project that you can use to build your own game with the [SpatialOS GDK for Unity](https://github.com/spatialos/gdk-for-unity).
+This is project is built from the [blank project provided by Improbable](https://github.com/spatialos/gdk-for-unity-blank-project).
 
-## Prerequisites
+## How to start playing
 
-Before using this project, make sure to follow the [machine setup guide](https://docs.improbable.io/unity/alpha/machine-setup).
+Every once in a while I'll open up a deployment for 6 hours.
+When I open such a deployment I'll provide a link to play here and and until when it should be live.
 
-## Setup
-
-1. Checkout this repository.
-2. Open the Unity project.
-
-&copy; 2019 Improbable
+&copy; Den_drummer 2020

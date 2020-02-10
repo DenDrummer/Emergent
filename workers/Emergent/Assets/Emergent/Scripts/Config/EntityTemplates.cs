@@ -2,7 +2,7 @@ using Improbable;
 using Improbable.Gdk.Core;
 using Improbable.Gdk.PlayerLifecycle;
 
-namespace BlankProject.Scripts.Config
+namespace Emergent.Scripts.Config
 {
     public static class EntityTemplates
     {

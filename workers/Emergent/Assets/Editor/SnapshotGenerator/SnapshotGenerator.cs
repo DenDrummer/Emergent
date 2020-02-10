@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 using Snapshot = Improbable.Gdk.Core.Snapshot;
 
-namespace BlankProject.Editor
+namespace Emergent.Editor
 {
     internal static class SnapshotGenerator
     {
