@@ -51,6 +51,3 @@ schema/from_gdk_packages
 _ReSharper.Caches
 
 .shared-ci/
-
-# Blender auto-generated backup files
-*.blend1
